@@ -1,0 +1,13 @@
+*
+!*/
+!*.c
+!*.cpp
+!*.cc
+!*.h
+!*.tex
+!*.pdf
+!.gitignore
+!CMakeLists.txt
+!LICENSE
+!README.md
+
